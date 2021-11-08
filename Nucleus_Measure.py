@@ -17,7 +17,6 @@ from java.awt import Color, Font
 minA = 12.0 # µm²
 maxA = 150.0
 
-# sigma = 5.0	# µm	- 40X images
 sigma = 15.0	# µm		- 63X images
 k = 5.0
 
